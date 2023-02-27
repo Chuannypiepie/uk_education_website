@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <script>
+    class Abc {
+      constructor(id) {
+        this.id = new Date();
+      }
+      toJson() {
+        var map = JSON.stringify(this);
+        map = JSON.parse(map)
+        map["id"] = '123';
+
+        return JSON.stringify(map);
+      }
+    }
+    var abc = new Abc();
+    console.log(abc.toJson());
+  </script>
+</body>
+
+</html>
