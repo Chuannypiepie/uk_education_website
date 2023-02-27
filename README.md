@@ -2,25 +2,7 @@
 
 <h1 align = "center">vue-admin-work</h1>
 
-## 项目演示地址：
 
-- [🚀🚀🚀🚀 官网&文档地址 🚀🚀🚀🚀](http://qingqingxuan.gitee.io/work-p-site)
-
-- [🎉Vue Admin Work 演示地址（Vue2.x + Javascript + Element UI + Webpack）](http://qingqingxuan.gitee.io/vue-admin-work)
-
-- [🎉Admin Work 演示地址（Vue3.x + Tavascript + Naive UI + Vite2](http://qingqingxuan.gitee.io/admin-work)
-
-* [🚀 Admin Work 源码地址 🚀](http://github.com/qingqingxuan/admin-work)
-
-- [🎉Vue Admin Work X 演示地址（Vue3.x + Tavascript + Element Plus + Webpack）](http://qingqingxuan.gitee.io/vue-admin-work-x)
-
-* [🚀 Vue Admin Work X 源码地址 🚀](http://github.com/qingqingxuan/vue-admin-work-x)
-
-- [🎉Vue Admin Work P 演示地址（Vue3.x + Tavascript + Naive UI + Vite2](http://qingqingxuan.gitee.io/vue-admin-work-p)
-
-* [🚀 Vue Admin Work P 源码地址 🚀](http://qingqingxuan.gitee.io/work-p-site)
-
-## vue-admin-work 前端讨论群及 QQ 客服
 
 
 
