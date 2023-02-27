@@ -22,13 +22,8 @@
 
 ## vue-admin-work 前端讨论群及 QQ 客服
 
-| <img src="http://qingqingxuan.gitee.io/img/qq-custom.png" style="zoom:20%;" /> | <img src="http://qingqingxuan.gitee.io/img/qq-vip-group.png" style="zoom:20%;" /> |
-| :----------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
 
 
-## 关注微信公众号 `知码前端` 方便以后更新、升级
-
-<div align="center"><img src="http://qingqingxuan.gitee.io/img/wx-service.jpg"/></div>
 
 ## 适合人群
 
@@ -83,6 +78,4 @@ vue-admin-work 有如下优势:
 | <img src="http://qingqingxuan.gitee.io/img/project-image-5.png" style="zoom:20%;" /> | <img src="http://qingqingxuan.gitee.io/img/project-image-6.png" style="zoom:20%;" /> |
 | <img src="http://qingqingxuan.gitee.io/img/project-image-7.png" style="zoom:20%;" /> | <img src="http://qingqingxuan.gitee.io/img/project-image-8.png" style="zoom:20%;" /> |
 
-
-| :------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: |
 
